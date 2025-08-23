@@ -8,6 +8,4 @@ This is a machine learning project to predict Titanic passenger survival accordi
 - `titanic.ipynb` – Jupyter Notebook with code  
 
 ## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/titanic-survivors-ml.git
+https://github.com/Zainab-Nahhal1/titanic-survivors-ml.git
